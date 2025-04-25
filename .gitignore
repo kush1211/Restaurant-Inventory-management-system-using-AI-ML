@@ -1,0 +1,9 @@
+node_modules/
+venv/
+package-lock.json
+package.json
+backend/food-ocr-inventory-d2f741381ba8.json
+backend/.env
+frontend/node_modules
+frontend/package-lock.json
+frontend/package.json
