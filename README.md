@@ -8,8 +8,7 @@
 
 ---
 
-## 🎥 Demo Video  
-[**Watch the Project Demo Here**](demo_final.mp4)
+## 🎥 Demo Video                              [**Watch the Project Demo Here**](demo_final.mp4)
 
 ## ✨ Overview
 
