@@ -1,14 +1,16 @@
-## 🎥 Demo Video
 
-![Watch the demo](demo_final.mp4)
 
 <div align="center">
-  <img src="your-project-logo.png" alt="Project Logo" width="200">
+<!--   <img src="your-project-logo.png" alt="Project Logo" width="200"> -->
   <h1>🍽️ Smart Kitchen Management System: AI-Powered Food Optimization</h1>
   <p>Leveraging Computer Vision, OCR, and Machine Learning to Minimize Food Waste and Optimize Restaurant Operations.</p>
 </div>
 
 ---
+
+## 🎥 Demo Video
+[![Watch the demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-%23FF0000?style=for-the-badge&logo=play&logoColor=white)](demo_final.mp4)
+
 
 ## ✨ Overview
 
