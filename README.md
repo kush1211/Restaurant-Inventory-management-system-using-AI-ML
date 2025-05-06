@@ -8,8 +8,8 @@
 
 ---
 
-## 🎥 Demo Video  [![Watch the demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-%23FF0000?style=for-the-badge&logo=play&logoColor=white)](demo_final.mp4)
-
+## 🎥 Demo Video  
+[**Watch the Project Demo Here**](demo_final.mp4)
 
 ## ✨ Overview
 
